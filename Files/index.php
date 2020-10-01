@@ -11,7 +11,7 @@ if(isset($_SESSION["user_data"]))
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Titan Gym | Login</title>
+	<title>Titan Gym Management System| Login</title>
 	<link rel="stylesheet" href="./css/style.css"/>
 	<link rel="stylesheet" type="text/css" href="./css/entypo.css">
 </head>
